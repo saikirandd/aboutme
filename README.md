@@ -8,6 +8,15 @@
 ## About
 #### MACHINE LEARNING: :
 Machine learning is  scientific study of algorithms and data analysis which automates the analytical model building. It is a branch of artificial intelligence where when  data is given as input , identifies patterns and makes decisions without  human intervention. 
+
+To create gitHub repository:
+- login to gitHub 
+- click on "+" symbol and click on "new repository".
+- Now write the repository name and select "public" and select create README.md. click on commit changes
+- inorder to create new file click " create new file". After naming the file enter the content required and to save click on commit changes.
+- you can write required content in README.md and click on commit changes.
+- inorder to publish page.Go to settings 
+
 ## Recommended tools
 - Google's TensorFlow
 - Nervana Neon
@@ -16,6 +25,12 @@ Machine learning is  scientific study of algorithms and data analysis which auto
 - Apache Spark MLlib
 - Veles. 
 - Apache Mahout. © Apache
+
+Using the following tools repository can be created:
+- Visual studio code
+- gitHub cloud
+
+
 
 ## Recommended resources
 - SAS : [https://www.sas.com/en_us/insights/analytics/machine-learning.html](https://www.sas.com/en_us/insights/analytics/machine-learning.html)
