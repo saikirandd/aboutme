@@ -6,7 +6,7 @@
 -  [link for GitHub page](https://saikirandd.github.io/aboutme/ "page")
 -  [Source of README.md ](https://github.com/saikirandd/aboutme "Source")
 ## About
-#### MACHINE LEARNING:
+#### MACHINE LEARNING: :
 Machine learning is the scientific study of algorithms and statistical models that computer systems use to progressively improve their performance on a specific task.
 ## Recommended tools
 - Google's TensorFlow
