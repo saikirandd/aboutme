@@ -30,6 +30,8 @@ Using the following tools repository can be created:
 ----------------------------------------------------
 - Visual studio code
 - gitHub cloud
+- chocolatey
+
 
 
 
