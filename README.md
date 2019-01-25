@@ -14,7 +14,7 @@ Machine learning is  scientific study of algorithms and data analysis which auto
 - click on "+" symbol and click on "**new repository**".
 - Now write the repository name and select "**public**" and select create **README.md** click on **commit changes**.
 - inorder to create new file click " **create new file**". After naming the file enter the content required and to save click on commit changes.
-- you can write required content in README.md and click on commit changes.
+- Once can write required content in README.md and commit changes.
 - inorder to publish page. Go to settings and in **source** under **github pages** select **master branch**. copy the link and publish.
 
 ## Recommended tools
