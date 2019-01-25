@@ -23,7 +23,7 @@ Machine learning is the scientific study of algorithms and statistical models th
 
 ## Contributors
 - SAI KIRAN DODDAPANENI, Applied Computer Science
-![Hosted image](https://upload.goo.gl/images/ECcuAF "Machine learning")
+![Hosted image](https://pbs.twimg.com/profile_images/1022127316862783488/yEGrou7L_400x400.jpg "Machine learning")
 
 
 
