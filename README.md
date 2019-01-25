@@ -18,8 +18,9 @@ Machine learning is  scientific study of algorithms and data analysis which auto
 - Apache Mahout. © Apache
 
 ## Recommended resources
-- https://www.sas.com/en_us/insights/analytics/machine-learning.html
-- https://en.wikipedia.org/wiki/Machine_learning
+- SAS : https://www.sas.com/en_us/insights/analytics/machine-learning.html
+- wikipedia: https://en.wikipedia.org/wiki/Machine_learning
+- topal: https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 
 
 
