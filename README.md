@@ -7,7 +7,7 @@
 -  [Source of README.md ](https://github.com/saikirandd/aboutme "Source")
 ## About
 #### MACHINE LEARNING: :
-Machine learning is the scientific study of algorithms and statistical models that computer systems use to progressively improve their performance on a specific task.
+Machine learning is  scientific study of algorithms and data analysis which automates the analytical model building. It is a branch of artificial intelligence where when  data is given as input , identifies patterns and makes decisions without  human intervention. 
 ## Recommended tools
 - Google's TensorFlow
 - Nervana Neon
@@ -18,6 +18,8 @@ Machine learning is the scientific study of algorithms and statistical models th
 - Apache Mahout. © Apache
 
 ## Recommended resources
+- https://www.sas.com/en_us/insights/analytics/machine-learning.html
+- https://en.wikipedia.org/wiki/Machine_learning
 
 
 
