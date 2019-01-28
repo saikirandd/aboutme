@@ -2,17 +2,18 @@
 <!doctype html>
 <html>
 <head>
+<title> Hello welcome to no </title>
+
 </head>
 <body>
-<header>
-<h1> SAI </h1> 
-</header>
 
-<main>
-<article>
+<h1> SAI </h1> 
+
 <section>
 feirgieurghuqehohgieqhrg
 </section>
+
+
 
 
 
