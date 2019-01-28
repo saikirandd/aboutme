@@ -1,0 +1,50 @@
+
+<!doctype html>
+<html>
+<head>
+<head>
+<body>
+</body>
+
+<header>
+<h1> SAI </h1> 
+<header>
+
+<main>
+<article>
+<section>
+feirgieurghuqehohgieqhrg
+</section>
+
+
+
+skjfnvlqeliufgvguqeyr
+<section>
+<h2>ndjfn</h2>
+wkfbqrlfilrflj
+</section>
+
+
+</article>
+</main>
+<aside>
+www.google.com
+</aside>
+
+<nav>
+</nav>
+
+Hi,
+I am  currently pursuing my masters in Applied Computer Science degree from Northwest Missouri  State University.
+
+I hail from Hyderabad, city of biryani. Electronics and communication engineering is my under-graduate degree from Vignan Institute of Technology & Science. My hobbies are listening to music, playing chess, watching soccer game.
+
+My career goal is to see myself as software engineer in one of top Mnc's .After graduating from this University, i would like to use the  skills i learned in real world scenario and get the best job i could.
+
+I find coding interesting. And i want to learn latest in the fields of computer science .
+
+my github link is https://saikirandd.github.io/aboutme/
+
+-SAI KIRAN DODDAPANENI
+</html>
+ 
