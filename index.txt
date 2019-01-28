@@ -2,13 +2,11 @@
 <!doctype html>
 <html>
 <head>
-<head>
+</head>
 <body>
-</body>
-
 <header>
 <h1> SAI </h1> 
-<header>
+</header>
 
 <main>
 <article>
@@ -34,6 +32,7 @@ www.google.com
 <nav>
 </nav>
 
+
 Hi,
 I am  currently pursuing my masters in Applied Computer Science degree from Northwest Missouri  State University.
 
@@ -46,5 +45,6 @@ I find coding interesting. And i want to learn latest in the fields of computer 
 my github link is https://saikirandd.github.io/aboutme/
 
 -SAI KIRAN DODDAPANENI
+</body>
 </html>
  
