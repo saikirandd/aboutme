@@ -1,38 +1,4 @@
-
-<!doctype html>
-<html>
-<head>
-<title> Hello welcome to no </title>
-
-</head>
-<body>
-
-<h1> SAI </h1> 
-
-<section>
-feirgieurghuqehohgieqhrg
-</section>
-
-
-
-
-
-skjfnvlqeliufgvguqeyr
-<section>
-<h2>ndjfn</h2>
-wkfbqrlfilrflj
-</section>
-
-
-</article>
-</main>
-<aside>
-www.google.com
-</aside>
-
-<nav>
-</nav>
-
+SAI KIRAN DODDAPANENI
 
 Hi,
 I am  currently pursuing my masters in Applied Computer Science degree from Northwest Missouri  State University.
@@ -45,7 +11,4 @@ I find coding interesting. And i want to learn latest in the fields of computer 
 
 my github link is https://saikirandd.github.io/aboutme/
 
--SAI KIRAN DODDAPANENI
-</body>
-</html>
- 
+
