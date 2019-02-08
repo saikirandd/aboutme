@@ -36,39 +36,34 @@
         </form>
       </div>
     </nav>
+    <section class="sc">
+    <h2 margin-top="30em">Length Converter</h2>
+<p script="color:red">Enter a value in the Inches  to convert the value into Kilometers:</p>
 
-    <main>
-            <section id="intro">
-            Square root calculation
-            <h1 style="background-color: coral">Square root</h1>
-            <p style="background-color: chartreuse" >    Enter Integer</p>
-            </section>
+<p>
+  <label>Inches</label>
+  <input id="inputInches" type="number" placeholder="Inches" oninput="LengthConverter(this.value)" onchange="LengthConverter(this.value)">
+</p>
+<p>Kilometers: <span id="outputKilometers"></span></p>
 
-            <section class="sq root">
-            
-              <input type="number" id="userInput" content-width="50%" ></input>
-              <button onclick= "squareroot">Submit</button>
-              
-              <script>
-                  function squareroot()
-                  {
-                    var userVal = document.getElementById("userInput").value; 
-                      // var userOutput=Math.sqrt(userVal);
+<script>
+function LengthConverter(valNum) {
+  document.getElementById("outputKilometers").innerHTML=valNum/39370;
+}
+</script>
+</section>
 
-                      // document.getElementById(squareroot).value = userOutput;
-                      writeLine(Math.sqrt(userVal));
-                  }
-              </script>
-              
-                
-            </section>
-</main>
-<br>
+          
+
+          
+
 <footer class="foot">
       &copy;
       All Rights Reserved, Sai Kiran Doddapaneni
 </footer>
 
+
 </body>
 </html>
+
 
