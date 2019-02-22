@@ -44,7 +44,7 @@
   <label>Inches</label>
   <input id="inputInches" type="number" placeholder="Inches" oninput="LengthConverter(this.value)" onchange="LengthConverter(this.value)">
   <br>
-  <button id="clicking" onclick="LengthConverter()">Click to convert kilometers to inches</button>
+  <button id="clicking" onclick="LengthConverter()">Click to convert inches to kilometers</button>
 </p>
 
 <p id="result" type="number" style="background-color:lightblue;" > Answer </p>
@@ -53,7 +53,16 @@
 src="function.js" rel="script">
 </script>
 </section>
-
+</div>
+<script src="./script/index.js"></script>
+<div>
+    <section>
+        <p>Click here to see content using ajax</p>
+        <button id="show" onclick="sendTheAJAX()" class="button">click me</button>
+        <div id="ajax">
+        </div>
+    </section>
+</div>
           
 
           
