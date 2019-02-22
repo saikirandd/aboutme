@@ -2,7 +2,14 @@ console.log('SCRIPT START')
 console.log('Declare testable functions.....................')
 
 function LengthConverter(valNum) {
-    return valNum/39370;
+    if(valNum>0){
+        kilo =    valNum/39370;
+        return kilo;
+    }else {
+        kilo=0;
+      return kilo+". YOU HAVE ENTERED INVALID LENGTH!" ;
+    
+    }
   }
   console.log('Defined LengthConverter=' + LengthConverter)
   console.log('Declare event listeners .......................')
