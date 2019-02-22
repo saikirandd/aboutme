@@ -7,7 +7,7 @@ function LengthConverter(valNum) {
         return kilo;
     }else {
         kilo=0;
-      return kilo+". YOU HAVE ENTERED INVALID LENGTH!" ;
+      return kilo ;
     
     }
   }
