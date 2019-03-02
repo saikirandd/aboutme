@@ -20,7 +20,11 @@ function LengthConverter(valNum) {
     console.log('i=' + i)
     const ans ='your conversion to kilometers is ' + LengthConverter(i) + '.'
     document.getElementById('result').innerHTML = ans
+    
+    
+    localStorage.setItem("answ",ans);
   })
+  
   console.log('SCRIPT END')  
   var request = new XMLHttpRequest();
 request.open('GET', 'https://codepen.io/saikirandd/pen/PVrgNL.html');
@@ -36,5 +40,11 @@ function sendTheAJAX() {
     request.send();
     document.getElementById('show').style.display = 'none';
 }
+
+function click()
+{
+    document.getElementById('r').innerHTML = "store" +localStorage.getItem("answ")
+}
+
 
 //referred : https://www.w3schools.com/jquery/ajax_ajax.asp
